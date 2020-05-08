@@ -20,7 +20,7 @@ Your tasks:
 3. Change fonts. Give all the headings the same font, different from the paragraphs
 4. The source at the bottom should be smaller than the regular paragraphs, and a lighter color
 5. Make the quote stand out with margins, color, etc.
-6. Add some new classes and IDs and play around with this page. Make stuff up, its ok. 
+6. Add some new classes and IDs and play around with this page. Make stuff up, it's ok. 
 
 
   
