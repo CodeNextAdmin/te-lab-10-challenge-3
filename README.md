@@ -3,10 +3,10 @@ Team Edge Lab 10-3
 
 CSS:  Classes and IDs
 
-The style.css file in this project only has regular selectors. Let's differentiate and apply 
-rules using class and id selectors instead. 
+The style.css file is already started for you. There is a new class selector for two color options:
+.red and .blue. There is also a #title 
 
-1. 
+The file already 
 
   
 -------------------
