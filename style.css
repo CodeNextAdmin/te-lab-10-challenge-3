@@ -6,6 +6,21 @@ body {
 }
 
 h1 {
-  font-style: italic;
-  color: #373fff;
+  
+  color: #343434;
+}
+
+.red{
+  /*not actually red, but a better red: firebrick! */
+  color: firebrick;
+}
+
+.blue{
+  /*not actually blue! */
+  color: cornflowerblue;
+}
+
+#title{
+  
+  text-align: center;
 }
