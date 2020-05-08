@@ -1,26 +1,24 @@
 /* CSS files add styling rules to your content */
 
 body {
-  font-family: helvetica, arial, sans-serif;
-  margin: 2em;
+  font-family: Times, serif;
+  margin: 100px;
+}
+img {
+  width: 150px;
+  height: auto;
 }
 
-h1 {
-  
-  color: #343434;
-}
-
-.red{
+.red {
   /*not actually red, but a better red: firebrick! */
   color: firebrick;
 }
 
-.blue{
-  /*not actually blue! */
+.blue {
+  /* this color really exists and your browswer knows about it! */
   color: cornflowerblue;
 }
 
-#title{
-  
-  text-align: center;
+#title {
+  text-align: left;
 }
